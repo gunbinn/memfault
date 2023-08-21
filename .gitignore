@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.env
+
+# Python installer
+pip-log.txt
+
+# Virtual environment
+venv/
+ENV/
+env/
+db/
+
+# macOS and OS X
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm settings
+.idea/
+*.iml
+
+# PyCharm project files
+*.pyproj
+*.pyproj.user
+*.iws
+
+# PyCharm run and debug files
+*.ipr
+*.iws
+*.ids
+
+# Editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
